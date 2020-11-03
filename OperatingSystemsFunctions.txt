@@ -9,3 +9,9 @@ Processor Management
 Processor Management is in charge of keeping track of prcoess statuses. 
 It also assigns processes within the CPU.
 It will also unassign unused processes.
+
+File Management
+
+File Management is the function that keeps track of many things like information, status and location.
+It also decides who or what gets the resources.
+File management ultimately decides who is assigned and unassigned the resources.
