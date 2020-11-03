@@ -3,3 +3,9 @@ Memory Management
 Memory Management is the function used to keep track of moving processes between the main memory and the disk memory.
 Memory Management also keeps track of the memory location processes and how much of it is free. 
 It also delegates what processes will get memory and at what time while keeping it's status up to date. 
+
+Processor Management
+
+Processor Management is in charge of keeping track of prcoess statuses. 
+It also assigns processes within the CPU.
+It will also unassign unused processes.
